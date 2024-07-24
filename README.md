@@ -1,4 +1,4 @@
-![React Task Mangement App](./banner.png)
+![React Task Mangement App](./preview.png)
 
 # Task Management App.
 

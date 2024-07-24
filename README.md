@@ -2,7 +2,7 @@
 
 # Task Management App.
 
-**live demo: [https://wc-react-task-app.netlify.app/](https://wc-react-task-app.netlify.app/)**
+**live demo: [https://main--taskmanagementapp9.netlify.app/](https://main--taskmanagementapp9.netlify.app/)**
 
 ---
 

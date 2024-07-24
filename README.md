@@ -2,7 +2,7 @@
 
 # Task Management App.
 
-**live demo: [https://main--taskmanagementapp9.netlify.app/](https://main--taskmanagementapp9.netlify.app/)**
+**live demo: [https://main--taskmanagementapp9.netlify.app/](https://main--taskmanagementapp9.netlify.app/){:target="_blank"}**
 
 ---
 
